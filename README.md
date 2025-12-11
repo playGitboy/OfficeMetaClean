@@ -1,5 +1,5 @@
 # OfficeMetaClean  
-自动删除常见office文件中的所有属性信息。   
+自动删除常见office文件中的所有属性信息（确保对外的文件不含私人信息等）。   
 Remove all property information from Office files.
 
 ## 说明  
