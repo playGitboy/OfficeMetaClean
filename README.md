@@ -2,6 +2,12 @@
 自动删除常见office文件中的所有属性信息。   
 Remove all property information from Office files.
 
+## 说明  
+* 使用Golang 1.19版本编译最大化兼容Windows7+系统
+* 处理doc/wps/xls/et/ppt/dps格式文件需要本机安装有WPS/Office
+
+
+## 帮助  
 ```
 CleanMeta - WPS/Office 文档元数据清理工具
 
